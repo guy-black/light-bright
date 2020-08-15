@@ -1,0 +1,14 @@
+1. make peg component.*
+  can be clicked on to change color*
+    color and size can be externally set or exported
+
+3. allow to save and load images
+  export object of
+  {
+    grid-size: [numCols,numRows],
+    peg-size: z,
+    image: [[]]*
+  }
+  * and array containing numRows arrays, each containing numCols "colors"
+  load similar object to load the image
+4. look into how to set up service workers to make this a pwa thing
