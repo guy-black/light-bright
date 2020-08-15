@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/light-bright/static/css/main.eb794fda.chunk.css",
+    "main.js": "/light-bright/static/js/main.491ac252.chunk.js",
+    "main.js.map": "/light-bright/static/js/main.491ac252.chunk.js.map",
+    "runtime-main.js": "/light-bright/static/js/runtime-main.f8839e82.js",
+    "runtime-main.js.map": "/light-bright/static/js/runtime-main.f8839e82.js.map",
+    "static/js/2.ac826e15.chunk.js": "/light-bright/static/js/2.ac826e15.chunk.js",
+    "static/js/2.ac826e15.chunk.js.map": "/light-bright/static/js/2.ac826e15.chunk.js.map",
+    "index.html": "/light-bright/index.html",
+    "precache-manifest.b80584b10ede19d9640fcd063f27b15d.js": "/light-bright/precache-manifest.b80584b10ede19d9640fcd063f27b15d.js",
+    "service-worker.js": "/light-bright/service-worker.js",
+    "static/css/main.eb794fda.chunk.css.map": "/light-bright/static/css/main.eb794fda.chunk.css.map",
+    "static/js/2.ac826e15.chunk.js.LICENSE.txt": "/light-bright/static/js/2.ac826e15.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8839e82.js",
+    "static/js/2.ac826e15.chunk.js",
+    "static/css/main.eb794fda.chunk.css",
+    "static/js/main.491ac252.chunk.js"
+  ]
+}
