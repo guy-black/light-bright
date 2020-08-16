@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/light-bright/static/css/main.52720552.chunk.css",
-    "main.js": "/light-bright/static/js/main.1513ed5b.chunk.js",
-    "main.js.map": "/light-bright/static/js/main.1513ed5b.chunk.js.map",
+    "main.css": "/light-bright/static/css/main.03f538f9.chunk.css",
+    "main.js": "/light-bright/static/js/main.4c0366f6.chunk.js",
+    "main.js.map": "/light-bright/static/js/main.4c0366f6.chunk.js.map",
     "runtime-main.js": "/light-bright/static/js/runtime-main.f8839e82.js",
     "runtime-main.js.map": "/light-bright/static/js/runtime-main.f8839e82.js.map",
     "static/js/2.ac826e15.chunk.js": "/light-bright/static/js/2.ac826e15.chunk.js",
     "static/js/2.ac826e15.chunk.js.map": "/light-bright/static/js/2.ac826e15.chunk.js.map",
     "index.html": "/light-bright/index.html",
-    "precache-manifest.7c6089b94e9d5e97d8a623681ca4f57d.js": "/light-bright/precache-manifest.7c6089b94e9d5e97d8a623681ca4f57d.js",
+    "precache-manifest.afefb1ab21512b15a67742735c0db36d.js": "/light-bright/precache-manifest.afefb1ab21512b15a67742735c0db36d.js",
     "service-worker.js": "/light-bright/service-worker.js",
-    "static/css/main.52720552.chunk.css.map": "/light-bright/static/css/main.52720552.chunk.css.map",
+    "static/css/main.03f538f9.chunk.css.map": "/light-bright/static/css/main.03f538f9.chunk.css.map",
     "static/js/2.ac826e15.chunk.js.LICENSE.txt": "/light-bright/static/js/2.ac826e15.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f8839e82.js",
     "static/js/2.ac826e15.chunk.js",
-    "static/css/main.52720552.chunk.css",
-    "static/js/main.1513ed5b.chunk.js"
+    "static/css/main.03f538f9.chunk.css",
+    "static/js/main.4c0366f6.chunk.js"
   ]
 }
